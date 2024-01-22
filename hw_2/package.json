@@ -1,0 +1,14 @@
+{
+  "name": "tatiana_create_password",
+  "version": "1.0.0",
+  "description": "create 10-digits password",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  
+  "keywords": [],
+  "author": "Tatiana Senatorova",
+  "license": "ISC"
+  
+}
